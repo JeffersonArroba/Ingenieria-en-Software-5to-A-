@@ -8,8 +8,8 @@ A lo largo del proyecto se realizan análisis comparativos de enfoques de gesti�
 Objetivos Generales
 El propósito central de este proyecto es analizar, evaluar y proponer estrategias efectivas para la gestión responsable de datos personales en un entorno digital en constante evolución. Para ello, se adopta un enfoque integral que busca comprender las implicaciones legales, éticas, técnicas y sociales asociadas con la recopilación, almacenamiento, procesamiento y uso de datos personales.
 
+El objetivo principal de este proyecto es establecer un marco integral de gestión de datos personales que garantice la privacidad, la seguridad y el cumplimiento normativo, promoviendo la conciencia sobre los derechos de los individuos y fomentando prácticas éticas y responsables en la recopilación, almacenamiento y uso de datos personales en entornos digitales y organizacionales.
 
 
 
 Objetivos Especificos
-
