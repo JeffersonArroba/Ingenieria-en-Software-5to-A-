@@ -1,7 +1,9 @@
 Introduccion
 En la actualidad, la gestión de datos personales es un tema cada vez más relevante en la era digital en la que vivimos. El avance de la tecnología y su integración en prácticamente todos los aspectos de nuestra vida ha generado una gran cantidad de información personal que es recopilada, compartida y almacenada en diversas plataformas y contextos.
 Sin embargo, esta situación también ha planteado preocupaciones sobre la privacidad, la seguridad y el uso indebido de los datos personales. Por ello, es necesario establecer un enfoque sólido para la gestión responsable de los mismos. En este sentido, individuos, organizaciones y autoridades deben encontrar un equilibrio para aprovechar los beneficios de los datos en la toma de decisiones, a la vez que se protegen los derechos fundamentales de privacidad y autonomía de las personas.
+En este proyecto se aborda la gestión de datos personales en un mundo interconectado y digitalizado. Se analizan las prácticas actuales en la recopilación, almacenamiento y procesamiento de datos personales, así como los marcos legales y las regulaciones que buscan proteger la privacidad de los individuos. Además, se consideran las implicaciones éticas y sociales de la gestión de datos y se examinan tanto los riesgos como las oportunidades que se presentan para las personas y las organizaciones.
 
+A lo largo del proyecto se realizan análisis comparativos de enfoques de gestión de datos en diferentes sectores y geografías, se examinan estudios de caso y se proponen recomendaciones para una gestión más efectiva y responsable de los datos personales. De esta forma, se busca comprender las complejidades del tema y estar preparados para abordar los desafíos que surgen en la era de la información, garantizando el respeto de los derechos individuales en una sociedad cada vez más digital.
 Objetivos Generales
 
 
