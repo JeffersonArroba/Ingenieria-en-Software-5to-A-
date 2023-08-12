@@ -6,9 +6,7 @@ En este proyecto se aborda la gestión de datos personales en un mundo intercone
 A lo largo del proyecto se realizan análisis comparativos de enfoques de gestión de datos en diferentes sectores y geografías, se examinan estudios de caso y se proponen recomendaciones para una gestión más efectiva y responsable de los datos personales. De esta forma, se busca comprender las complejidades del tema y estar preparados para abordar los desafíos que surgen en la era de la información, garantizando el respeto de los derechos individuales en una sociedad cada vez más digital.
 
 Objetivos Generales
-El propósito central de este proyecto es analizar, evaluar y proponer estrategias efectivas para la gestión responsable de datos personales en un entorno digital en constante evolución. Para ello, se adopta un enfoque integral que busca comprender las implicaciones legales, éticas, técnicas y sociales asociadas con la recopilación, almacenamiento, procesamiento y uso de datos personales.
-
-El objetivo principal de este proyecto es establecer un marco integral de gestión de datos personales que garantice la privacidad, la seguridad y el cumplimiento normativo, promoviendo la conciencia sobre los derechos de los individuos y fomentando prácticas éticas y responsables en la recopilación, almacenamiento y uso de datos personales en entornos digitales y organizacionales.
+El propósito central de este proyecto es analizar, evaluar y proponer estrategias efectivas para la gestión responsable de datos personales en un entorno digital en constante evolución. Para ello, se adopta un enfoque integral que busca comprender las implicaciones legales, éticas, técnicas y sociales asociadas con la recopilación, almacenamiento, procesamiento y uso de datos personales, que garantice la privacidad, la seguridad y el cumplimiento normativo, promoviendo la conciencia sobre los derechos de los individuos y fomentando prácticas éticas y responsables en la recopilación, almacenamiento y uso de datos personales en entornos digitales y organizacionales.
 
 
 
